@@ -1,0 +1,148 @@
+﻿  main_form.cpp
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\struct.h(209,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\struct.h(225,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\struct.h(255,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\struct.h(271,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\struct.h(302,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\struct.h(318,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\struct.h(348,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\struct.h(364,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\struct.h(394,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\struct.h(410,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(58,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(132,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(185,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(244,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(444,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(465,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(534,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(562,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(627,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(649,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(689,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(715,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(751,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(773,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(5,26): warning C4398: __r: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(6,22): warning C4398: __y: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(7,30): warning C4398: __d: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(8,25): warning C4398: __l: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(9,32): warning C4398: __t: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(10,25): warning C4398: __e: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(11,26): warning C4398: __g: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(12,19): warning C4398: __q: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(13,22): warning C4398: __o: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(14,24): warning C4398: __f: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(15,31): warning C4398: __w: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(16,30): warning C4398: __z: глобальный объект для каждого процесса может работать неправильно с несколькими доменами приложений; рассмотрите возможность использования __declspec(appdomain)
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(3175,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(3418,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(3880,20): warning C4101: t: неиспользованная локальная переменная
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(62,5): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(58): message : во время компиляции функции-члена класс шаблон "int table<Nationality_,Nationality>::LoadToForm(System::Windows::Forms::TabPage ^,int,int,int,int)"
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\main_form.h(4855): message : выполняется компиляция ссылки на экземпляр шаблон функции "int table<Nationality_,Nationality>::LoadToForm(System::Windows::Forms::TabPage ^,int,int,int,int)"
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\struct.h(47): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "table<Nationality_,Nationality>"
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(101): warning C4793: table<_religion,Religion>::LoadFromFile: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(131): warning C4793: table<_religion,Religion>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(144): warning C4793: table<_religion,Religion>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(101): warning C4793: table<_gender,Gender>::LoadFromFile: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(131): warning C4793: table<_gender,Gender>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(144): warning C4793: table<_gender,Gender>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(101): warning C4793: table<_nationality,Nationality>::LoadFromFile: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(131): warning C4793: table<_nationality,Nationality>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(144): warning C4793: table<_nationality,Nationality>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(101): warning C4793: table<_worktype,WorkType>::LoadFromFile: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(131): warning C4793: table<_worktype,WorkType>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(144): warning C4793: table<_worktype,WorkType>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(101): warning C4793: table<_comfortlevel,ComfortLevel>::LoadFromFile: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(131): warning C4793: table<_comfortlevel,ComfortLevel>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(144): warning C4793: table<_comfortlevel,ComfortLevel>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(101): warning C4793: table<_sector,Sector>::LoadFromFile: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(131): warning C4793: table<_sector,Sector>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(144): warning C4793: table<_sector,Sector>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(101): warning C4793: table<_barrack,Barrack>::LoadFromFile: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(131): warning C4793: table<_barrack,Barrack>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(144): warning C4793: table<_barrack,Barrack>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(101): warning C4793: table<_guard,Guard>::LoadFromFile: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(131): warning C4793: table<_guard,Guard>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(144): warning C4793: table<_guard,Guard>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(101): warning C4793: table<_prisoner,Prisoner>::LoadFromFile: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(131): warning C4793: table<_prisoner,Prisoner>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(144): warning C4793: table<_prisoner,Prisoner>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(101): warning C4793: table<_bossofsectors,BossOfSector>::LoadFromFile: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(131): warning C4793: table<_bossofsectors,BossOfSector>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(144): warning C4793: table<_bossofsectors,BossOfSector>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(101): warning C4793: table<_prisonersnbarracks,PrisonerBarrack>::LoadFromFile: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(131): warning C4793: table<_prisonersnbarracks,PrisonerBarrack>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(144): warning C4793: table<_prisonersnbarracks,PrisonerBarrack>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(101): warning C4793: table<_guardworkplace,GuardWorkplace>::LoadFromFile: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(131): warning C4793: table<_guardworkplace,GuardWorkplace>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_table.h(144): warning C4793: table<_guardworkplace,GuardWorkplace>::LoadFromFile: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(442): warning C4793: Sector::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(529): warning C4793: Barrack::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(530): warning C4793: Barrack::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(180): warning C4793: Guard::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(181): warning C4793: Guard::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(182): warning C4793: Guard::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(53): warning C4793: Prisoner::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(54): warning C4793: Prisoner::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(55): warning C4793: Prisoner::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(624): warning C4793: BossOfSector::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(625): warning C4793: BossOfSector::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(748): warning C4793: PrisonerBarrack::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(749): warning C4793: PrisonerBarrack::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(686): warning C4793: GuardWorkplace::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\_classes.h(687): warning C4793: GuardWorkplace::splitString: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+  main_form.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  db_kursach_okonnoe.vcxproj -> C:\Users\Кирилл\source\repos\db_kursach_okonnoe\x64\Debug\db_kursach_okonnoe.exe

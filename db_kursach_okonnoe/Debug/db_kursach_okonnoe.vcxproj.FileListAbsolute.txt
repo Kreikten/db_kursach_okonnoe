@@ -1,0 +1,3 @@
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\Debug\db_kursach_okonnoe.vcxprojAssemblyReference.cache
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\Debug\dbkursachokonnoe.main_form.resources
+C:\Users\Кирилл\source\repos\db_kursach_okonnoe\db_kursach_okonnoe\Debug\db_kursach_okonnoe.vcxproj.GenerateResource.cache
